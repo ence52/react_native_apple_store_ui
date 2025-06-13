@@ -28,7 +28,9 @@ Font could not be identified and has been set to default.
 ### Design
 
 <img src="https://github.com/user-attachments/assets/9af906b9-d883-4559-867b-155fa99c690f" width="950" height="715">
+
 ### Implementation
+
 <div class="flex">
   <img src="https://github.com/user-attachments/assets/a513800d-5473-477b-a337-5ae27f949f90" width="270" height="548">
   <img src="https://github.com/user-attachments/assets/d1adadb2-8baa-48c4-89ca-7d88f46e907e" width="270" height="548">
